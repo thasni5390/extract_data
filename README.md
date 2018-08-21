@@ -5,4 +5,6 @@ installation steps
 3. virtualenv venv
 4. source venv/bin/activate
 5. pip install requirements.txt
+
+To run scrapy
 scrapy crawl television -o data/television.csv -t csv
