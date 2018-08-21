@@ -7,4 +7,4 @@ installation steps
 5. pip install requirements.txt
 
 To run scrapy
-scrapy crawl television -o data/television.csv -t csv
+1. scrapy crawl television -o data/television.csv -t csv
